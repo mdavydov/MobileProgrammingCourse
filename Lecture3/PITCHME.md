@@ -26,12 +26,12 @@ Hello
 @title[Add A Little Imagination]
 
 @snap[west span-55]
-@ul[spaced]
-1. You will be amazed
-1. What you can achieve
-1. *With a little imagination...*
-1. And **GitPitch Markdown**
-@ulend
+@ol[spaced]
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@olend
 @snapend
 
 @snap[east span-45]
