@@ -6,7 +6,7 @@
 
 1. Тест
 1. Тест
-- Тест
+   - Тест
 1. Тест
 1. Тест
 <!--- ![](assets/img/presentation.png) -->
@@ -27,10 +27,10 @@ Hello
 
 @snap[west span-55]
 @ul[spaced]
-- You will be amazed
+1. You will be amazed
 1. What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+1. *With a little imagination...*
+1. And **GitPitch Markdown**
 @ulend
 @snapend
 
