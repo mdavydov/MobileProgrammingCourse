@@ -25,7 +25,7 @@ Hello
 @title[Add A Little Imagination]
 
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
