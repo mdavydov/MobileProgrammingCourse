@@ -1,9 +1,13 @@
-# Let's Get Started
+# Програмування для платформи Android
 
 ---
 
 ## Add Some Slide Candy
 
+1. Тест
+1. Тест
+1. Тест
+1. Тест
 <!--- ![](assets/img/presentation.png) -->
 
 ---
@@ -17,12 +21,8 @@
 Hello
 @snapend
 
----?color=#E58537
+---
 @title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
 
 @snap[west span-55]
 @ul[spaced text-white]
@@ -34,7 +34,7 @@ Hello
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+East-45
 @snapend
 
 @snap[north span-100 headline]
