@@ -1,4 +1,4 @@
-# Програмування для платформи Android
+## Програмування для платформи Android
 
 ---
 
@@ -6,6 +6,7 @@
 
 1. Тест
 1. Тест
+- Тест
 1. Тест
 1. Тест
 <!--- ![](assets/img/presentation.png) -->
@@ -27,7 +28,7 @@ Hello
 @snap[west span-55]
 @ul[spaced]
 - You will be amazed
-- What you can achieve
+1. What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
 @ulend
