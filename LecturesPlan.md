@@ -28,6 +28,7 @@ https://www.slideshare.net/MaksymDavydov/lecture-01-mobile-operating-systems-135
 https://www.slideshare.net/MaksymDavydov/lecture-02-mobile-hardware
 
 Питання для самоперевірки:
+
 https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28d6f4f2f157
    
 ## Лекція 3. Основи розроблення для платформи Android. Мова програмування Java.
