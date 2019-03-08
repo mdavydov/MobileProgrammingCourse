@@ -38,6 +38,19 @@ Hello
 East-45
 @snapend
 
+---
+
+@ul
+
+- Plain text list item @note[Cool! Fragment specific speaker notes :)]
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item @note[Fragment specific speaker notes are optional.]
+
+@ulend
+
+---
+
+
 @snap[north span-100 headline]
 ## Now It's Your Turn
 @snapend
