@@ -16,7 +16,7 @@
 
 ## Основні типи Java
 
-@size[1em](
+@size[0.5em](
 Type | Description | Default | Size | Example Literals
 --- | --- | --- | --- | ---
 boolean | true or false | false | VM dependent |	true, false
