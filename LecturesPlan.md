@@ -42,6 +42,12 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    - Пакети, класи, методи,
    - інтерфейси, анонімні класи
    - основні бібліотеки
+   
+   Презентації:
+  
+   https://www.slideshare.net/MaksymDavydov/android-programming-intro
+  
+   http://indico.ictp.it/event/a0727/session/7/contribution/4/material/0/1.pdf
 
 ## Лекція 4. Основні компоненти програми для Android. Розроблення користувацького інтерфейсу.
 1. Додаток для Android і його компоненти
