@@ -79,6 +79,10 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 
    Презентації:
    
+   https://www.slideshare.net/MaksymDavydov/interface-programming-android
+   
+   https://www.slideshare.net/MaksymDavydov/android-storage
+   
    http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid445162.pdf
    
 ## Лекції 7-8. Проектування мобільних додатків. Від вимог до інфраструктури.
