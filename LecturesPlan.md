@@ -48,6 +48,8 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    https://www.slideshare.net/MaksymDavydov/android-programming-intro
   
    http://indico.ictp.it/event/a0727/session/7/contribution/4/material/0/1.pdf
+   
+   https://www.slideshare.net/MaksymDavydov/java-small-tests
 
 ## Лекції 5-6. Розроблення для Android: інтерфейсні елементи, анімації, збереження даних, мережева взаємодія, використання  С++.
 
