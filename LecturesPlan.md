@@ -66,7 +66,7 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    - Віджети та шпалери головного екрану
 1. Розроблення інтерфейсу програми
    - Файл розміщення (XML) і основні теги розміщення
-   - Засоби розташування елементів]
+   - Засоби розташування елементів
 1. Анімація елементів програми і переходи між активностями
    - Анімації в ОС Android
    - Transition Framework
@@ -84,6 +84,10 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    https://www.slideshare.net/MaksymDavydov/android-storage
    
    http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid445162.pdf
+   
+   Додаткові матеріали:
+   
+   Використання анотацій для перевірки коду: https://developer.android.com/studio/write/annotations.html#kotlin
    
 ## Лекції 7-8. Проектування мобільних додатків. Від вимог до інфраструктури.
 
