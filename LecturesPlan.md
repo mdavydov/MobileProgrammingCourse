@@ -79,11 +79,13 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 
    Презентації:
    
-   https://www.slideshare.net/MaksymDavydov/interface-programming-android
+   Програмування інтерфейсу: https://www.slideshare.net/MaksymDavydov/interface-programming-android
    
-   https://www.slideshare.net/MaksymDavydov/android-storage
+   Збереження даних: https://www.slideshare.net/MaksymDavydov/android-storage
    
-   http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid445162.pdf
+   MVC, виконання операцій у фоні: http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid445162.pdf
+   
+   Мережева взаємодія: https://www.slideshare.net/MaksymDavydov/android-networking-139051053
    
    Додаткові матеріали:
    
