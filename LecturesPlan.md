@@ -91,6 +91,8 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    
    Використання анотацій для перевірки коду: https://developer.android.com/studio/write/annotations.html#kotlin
    
+   Задання обробника події прямо у файлі розміщення: https://www.slideshare.net/MaksymDavydov/handler-declaration-in-layout
+   
 ## Лекції 7-8. Проектування мобільних додатків. Від вимог до інфраструктури.
 
 1. Проектування: визначення вимог
