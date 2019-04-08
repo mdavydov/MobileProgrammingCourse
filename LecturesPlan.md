@@ -112,6 +112,14 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    - Соціальні мережі, QR-коди.
    - Хмарні і мобільні сервіси.
    - Основи Google Firebase і Microsoft Mobile Services.
+   
+   Презентації:
+   
+   Визначення можливостей: https://www.slideshare.net/MaksymDavydov/mobile-app-design-feature-development
+   
+   Дизайн мобільних додатків: https://www.slideshare.net/MaksymDavydov/design-of-mobile-apps
+   
+   
 
 ## Лекції 9-10. Програмування графічних мобільних додатків з використанням OpenGL ES, Metal, Vulkan
 1. Історія розвитку OpenGL і Metal.
