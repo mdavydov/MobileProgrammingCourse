@@ -87,7 +87,7 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    
    Мережева взаємодія: https://www.slideshare.net/MaksymDavydov/android-networking-139051053
    
-   Анімації в Android: [слайдиї](https://www.slideshare.net/MaksymDavydov/android-animations-140018946) і [відео](https://youtu.be/P7kNiiPcReo)
+   Анімації в Android: [слайди](https://www.slideshare.net/MaksymDavydov/android-animations-140018946) і [відео](https://youtu.be/P7kNiiPcReo)
    
    Додаткові матеріали:
    
