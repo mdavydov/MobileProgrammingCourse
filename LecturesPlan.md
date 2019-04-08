@@ -89,6 +89,8 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    
    Анімації в Android: [слайди](https://www.slideshare.net/MaksymDavydov/android-animations-140018946) і [відео](https://youtu.be/P7kNiiPcReo)
    
+   Поєднання коду на Java і C++: https://www.slideshare.net/MaksymDavydov/android-mix-java-and-c
+   
    Додаткові матеріали:
    
    Використання анотацій для перевірки коду: https://developer.android.com/studio/write/annotations.html#kotlin
