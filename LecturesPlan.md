@@ -109,7 +109,6 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 1. Проектування: вибір інфраструктури
    - Засоби і бібліотеки для взаємодії.
    - Основи безпеки й надійності.
-   - Соціальні мережі, QR-коди.
    - Хмарні і мобільні сервіси.
    - Основи Google Firebase і Microsoft Mobile Services.
    
@@ -118,6 +117,14 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    Визначення можливостей: https://www.slideshare.net/MaksymDavydov/mobile-app-design-feature-development
    
    Дизайн мобільних додатків: https://www.slideshare.net/MaksymDavydov/design-of-mobile-apps
+   
+   Google Play Services: https://www.jumpyjosh.com/topic04-google-services/talk-1-google-1/01.google.plus.pdf
+   
+   BaaS платформи:
+   
+   Azure Mobile Services: https://www.slideshare.net/MaksymDavydov/microsoft-mobile-services
+   
+   Firebase: https://www.slideshare.net/MaksymDavydov/microsoft-mobile-services
    
    
 
