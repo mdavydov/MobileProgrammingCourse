@@ -124,7 +124,10 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    
    Azure Mobile Services: https://www.slideshare.net/MaksymDavydov/microsoft-mobile-services
    
-   Firebase: https://www.slideshare.net/MaksymDavydov/microsoft-mobile-services
+   Firebase:
+   
+   - https://www.slideshare.net/MaksymDavydov/firebase-overview-141183795
+   - https://www.jumpyjosh.com/topic05-firebase/talk-1-firebase/firebase.pdf
    
    
 
