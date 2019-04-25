@@ -167,15 +167,29 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 
 ## Лекції 11-12. Засоби кросплатформного програмування.
 1. Xamarin
-1. JQuery Mobile
+1. React Native
 1. Unity 3D
 1. Проектування Web-сайтів для мобільних пристроїв.
+
+Презентації:
+  - Xamarin: https://www.slideshare.net/MaksymDavydov/lecture-08-xamarin
+  - React Native: https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442
+  - React Native (more info): https://www.slideshare.net/engrafie/react-native-76849095?next_slideshow=1
+  - Introduction to Unity 3D: https://www.slideshare.net/marknb00/mobile-ar-lecture6-introduction-to-unity-3d
+  
+Додатково:
+  - Getting started with React Native: https://facebook.github.io/react-native/docs/0.53/getting-started
+  - React Native vs Native App: https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f 
 
 ## Лекції 13-14. Розроблення для платформи iOS
 
 1. Основи мов програмування Objective-C і Swift
 1. Розроблення засобів користувацького інтерфейсу для iOS.
 1. Програмування для iOS: основні фреймфорки і технології
+
+Презентації:
+  - Objective-C: https://www.slideshare.net/MaksymDavydov/lecture-06-ios-programming-objectivec
+  - Swift: https://www.slideshare.net/MaksymDavydov/lecture-07-swift
 
 ## Лекція 15. Маркетинг мобільних додатків
 1. Ідеї та гіпотези.
