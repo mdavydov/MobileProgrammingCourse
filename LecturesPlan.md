@@ -140,8 +140,8 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 
 Презентації:
   - Малювання у Android View: http://courses.coreservlets.com/Course-Materials/pdf/android/Android-Drawing-1.pdf
-  - OpenGL для Android: https://proglang.informatik.uni-freiburg.de/teaching/androidpracticum/2013/AndroidAndOpenGL.pdf
-  - OpenGL для Android: https://www.cl.cam.ac.uk/teaching//1617/AdvGraph/Printable%20(2016-2017)%20(1-up).pdf
+  - Програмування OpenGL на Android: https://proglang.informatik.uni-freiburg.de/teaching/androidpracticum/2013/AndroidAndOpenGL.pdf
+  - Програмування на JAVA з використанням OpenGL : https://www.cl.cam.ac.uk/teaching//1617/AdvGraph/Printable%20(2016-2017)%20(1-up).pdf
   
 Книги:
 
