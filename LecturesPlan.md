@@ -107,10 +107,13 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    - Аналіз Jobs-to-be-done
    - Аналіз персон
 1. Проектування: вибір інфраструктури
+   - IaaS, PaaS, SaaS і BaaS
+   - Google Play Services
+   - Цифровий підпис програми
    - Засоби і бібліотеки для взаємодії.
-   - Основи безпеки й надійності.
    - Хмарні і мобільні сервіси.
    - Основи Google Firebase і Microsoft Mobile Services.
+   - Безпека, надійність і продуктивність хмарних сервісів.
    
    Презентації:
    
