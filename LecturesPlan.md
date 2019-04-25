@@ -172,10 +172,14 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 1. Проектування Web-сайтів для мобільних пристроїв.
 
 Презентації:
-  - Xamarin: https://www.slideshare.net/MaksymDavydov/lecture-08-xamarin
-  - React Native: https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442
-  - React Native (more info): https://www.slideshare.net/engrafie/react-native-76849095?next_slideshow=1
-  - Introduction to Unity 3D: https://www.slideshare.net/marknb00/mobile-ar-lecture6-introduction-to-unity-3d
+- Xamarin:
+   - https://www.slideshare.net/MaksymDavydov/lecture-08-xamarin
+- React Native:
+  - JS6 : https://www.slideshare.net/kobkrit?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+  - Basics: https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442
+  - More info: https://www.slideshare.net/engrafie/react-native-76849095?next_slideshow=1
+- Unity 3D:
+  - https://www.slideshare.net/marknb00/mobile-ar-lecture6-introduction-to-unity-3d
   
 Додатково:
   - Getting started with React Native: https://facebook.github.io/react-native/docs/0.53/getting-started
