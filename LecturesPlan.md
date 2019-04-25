@@ -138,6 +138,18 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 1. Типи шейдерів.
 1. Відмінні і спільні риси OpenGL ES і Metal.
 
+Презентації:
+  - Малювання у Android View: http://courses.coreservlets.com/Course-Materials/pdf/android/Android-Drawing-1.pdf
+  - OpenGL для Android: https://proglang.informatik.uni-freiburg.de/teaching/androidpracticum/2013/AndroidAndOpenGL.pdf
+  - OpenGL для Android: https://www.cl.cam.ac.uk/teaching//1617/AdvGraph/Printable%20(2016-2017)%20(1-up).pdf
+  
+Книги:
+
+  - OpenGL для Android: https://doc.lagout.org/programmation/OpenGL/Pro%20OpenGL%20ES%20for%20Android%20%5BSmithwick%20%26%20Verma%202012-01-24%5D.pdf
+  
+  - OpenGL ES 2.0 для Android: 
+  https://doc.lagout.org/programmation/OpenGL/OpenGL%20ES%202%20for%20Android_%20A%20Quick-Start%20Guide%20%5BBrothaler%202013-07-06%5D.pdf
+
 ## Лекції 11-12. Засоби кросплатформного програмування.
 1. Xamarin
 1. JQuery Mobile
