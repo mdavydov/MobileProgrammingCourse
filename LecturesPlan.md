@@ -112,7 +112,7 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    - Цифровий підпис програми
    - Засоби і бібліотеки для взаємодії.
    - Хмарні і мобільні сервіси.
-   - Основи Google Firebase і Microsoft Mobile Services.
+   - Основи Google Firebase і Azure App Services.
    - Безпека, надійність і продуктивність хмарних сервісів.
    
    Презентації:
