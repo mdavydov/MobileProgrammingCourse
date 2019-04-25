@@ -142,6 +142,14 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
   - Малювання у Android View: http://courses.coreservlets.com/Course-Materials/pdf/android/Android-Drawing-1.pdf
   - Програмування OpenGL на Android: https://proglang.informatik.uni-freiburg.de/teaching/androidpracticum/2013/AndroidAndOpenGL.pdf
   - Програмування на JAVA з використанням OpenGL : https://www.cl.cam.ac.uk/teaching//1617/AdvGraph/Printable%20(2016-2017)%20(1-up).pdf
+  - Intro to Metal programming: https://devstreaming-cdn.apple.com/videos/wwdc/2018/604lh97z18yv96g6nhf/604/604_metal_for_opengl_developers.pdf?dl=1
+  - Intro to Vulkan programming: http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/Intro.1pp.pdf
+  
+Додаткові матеріали:
+  - OpenGL ES 2.0 Quick reference card: https://www.khronos.org/opengles/sdk/docs/reference_cards/OpenGL-ES-2_0-Reference-card.pdf
+  - OpenGL ES 3.0 Quick reference card: https://www.khronos.org/files/opengles3-quick-reference-card.pdf
+  - Vulkan Quick reference card: https://www.khronos.org/files/vulkan11-reference-guide.pdf
+  - Оптимізація програм з використанням Vulkan: https://www.khronos.org/assets/uploads/developers/library/2019-reboot-develop-blue/Turn-your-Frame-Rate-up-to-60-with-Vulkan-on-Switch_Apr19.pdf
   
 Книги:
 
@@ -149,6 +157,8 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
   
   - OpenGL ES 2.0 для Android: 
   https://doc.lagout.org/programmation/OpenGL/OpenGL%20ES%202%20for%20Android_%20A%20Quick-Start%20Guide%20%5BBrothaler%202013-07-06%5D.pdf
+  
+  
 
 ## Лекції 11-12. Засоби кросплатформного програмування.
 1. Xamarin
