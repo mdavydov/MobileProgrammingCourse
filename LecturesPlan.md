@@ -144,7 +144,7 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 1. Vulkan
 
 Презентації:
-  - Малювання у Android View: http://courses.coreservlets.com/Course-Materials/pdf/android/Android-Drawing-1.pdf
+  - Малювання у Android View: https://www.slideshare.net/martyhall/android-tutorial-2d-drawing-part-2-coordinate-transformations-and-shapedrawable
   - Програмування OpenGL на Android: https://proglang.informatik.uni-freiburg.de/teaching/androidpracticum/2013/AndroidAndOpenGL.pdf
   - Програмування на JAVA з використанням OpenGL : https://www.cl.cam.ac.uk/teaching//1617/AdvGraph/Printable%20(2016-2017)%20(1-up).pdf
   - Intro to Metal programming: https://devstreaming-cdn.apple.com/videos/wwdc/2018/604lh97z18yv96g6nhf/604/604_metal_for_opengl_developers.pdf?dl=1
