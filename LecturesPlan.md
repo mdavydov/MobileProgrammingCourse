@@ -131,12 +131,14 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
    
    
 
-## Лекції 9-10. Програмування графічних мобільних додатків з використанням OpenGL ES, Metal, Vulkan
+## Лекції 9-10. Програмування графічних мобільних додатків
+1. Self-drawing views
 1. Історія розвитку OpenGL і Metal.
 1. Основні об’єкти.
 1. Поняття контексту.
 1. Типи шейдерів.
 1. Відмінні і спільні риси OpenGL ES і Metal.
+1. Vulkan
 
 Презентації:
   - Малювання у Android View: http://courses.coreservlets.com/Course-Materials/pdf/android/Android-Drawing-1.pdf
