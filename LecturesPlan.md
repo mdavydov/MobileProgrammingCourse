@@ -175,7 +175,7 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
 - Xamarin:
    - https://www.slideshare.net/MaksymDavydov/lecture-08-xamarin
 - React Native:
-  - JS6 : https://www.slideshare.net/kobkrit?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+  - JS6 : https://www.slideshare.net/kobkrit/lecture-2-es6-es2015-slide
   - Basics: https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442
   - More info: https://www.slideshare.net/engrafie/react-native-76849095?next_slideshow=1
 - Unity 3D:
