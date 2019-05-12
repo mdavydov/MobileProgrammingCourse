@@ -160,7 +160,7 @@ https://create.kahoot.it/share/mobile-os-and-hardware/4fb9752b-66bf-4e29-8169-28
   
 Книги:
 
-  - OpenGL для Android: https://doc.lagout.org/programmation/OpenGL/Pro%20OpenGL%20ES%20for%20Android%20%5BSmithwick%20%26%20Verma%202012-01-24%5D.pdf
+  - Pro OpenGL ES для Android: https://doc.lagout.org/programmation/OpenGL/Pro%20OpenGL%20ES%20for%20Android%20%5BSmithwick%20%26%20Verma%202012-01-24%5D.pdf
   
   - OpenGL ES 2.0 для Android: 
   https://doc.lagout.org/programmation/OpenGL/OpenGL%20ES%202%20for%20Android_%20A%20Quick-Start%20Guide%20%5BBrothaler%202013-07-06%5D.pdf
