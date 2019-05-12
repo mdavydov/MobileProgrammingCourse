@@ -3,6 +3,8 @@
 Курс складається з 15 [лекцій](https://github.com/mdavydov/MobileProgrammingCourse/blob/master/LecturesPlan.md) (які у деяких групах згруповані у 7 лекцій), 6 лабораторних і одного проекту.
 Під кінець курсу студенти пишуть контрольну роботу і отримують залік.
 
+Питання на залік: https://github.com/mdavydov/MobileProgrammingCourse/blob/master/README.md
+
 Якщо виникають питання щодо реалізації лаботаторних, алгоритм дій такий:
 1. Зробити commit/push лабораторного проекту на GitHub
 1. Надіслати мені запрошення на linkedin www.linkedin.com/in/maksymdavydov
